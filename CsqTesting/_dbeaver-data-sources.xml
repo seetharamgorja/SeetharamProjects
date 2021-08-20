@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql8-16e4a7e05ea-77249a5ec84ed951" provider="mysql" driver="mysql8" name="MySQL 8.x - dunyana" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="192.168.235.20" port="3306" server="" database="dunyana" url="jdbc:mysql://192.168.235.20:3306/dunyana" user="prospecta" password="AxYJM1FGRwIEMlRud/c=" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev"/>
+	</data-source>
+	<data-source id="mysql8-16e872fb1bd-76f34d652fff81c4" provider="mysql" driver="mysql8" name="MySQL 8.x - smsliteQA" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="192.168.235.23" port="3306" server="" database="smsliteQA" url="jdbc:mysql://192.168.235.23:3306/smsliteQA" user="smsdev" password="IAkVJERVZEdXQWbf" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev"/>
+	</data-source>
+	<data-source id="mysql8-16eee120178-5c870e6e2a0f4edf" provider="mysql" driver="mysql8" name="MySQL 8.x - dunyana 2" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
+		<connection host="35.188.10.142" port="3306" server="" database="dunyana" url="jdbc:mysql://35.188.10.142:3306/dunyana" user="dunmgr" password="PSQXc00SHVJl8w==" home="C:\Program Files\MySQL\MySQL Server 5.7" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
